@@ -18,7 +18,7 @@ Tengo conocimientos en desarrollo frontend (HTML, CSS, JavaScript), bases de dat
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosperez85&layout=compact&theme=dracula)
 
 ### 📫 ¿Cómo contactarme?
-- LinkedIn: www.linkedin.com/in/marcos-damian-perez---
+- LinkedIn: www.linkedin.com/in/marcos-damian-perez
 
 <!--
 **marcosperez85/marcosperez85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
