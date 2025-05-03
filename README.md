@@ -11,13 +11,26 @@ Tengo conocimientos en desarrollo frontend (HTML, CSS, JavaScript), bases de dat
 - 📘 **Intereses:** Desarrollo fullstack, integración de sistemas (OPC UA, MQTT), y optimización de procesos con AWS e IA
 - 📈 **Objetivo:** Construir herramientas que faciliten la vida a los usuarios y seguir creciendo profesionalmente.
 
-### 📊 Stats de GitHub:
+### English Version
+
+I am an Industrial Automation and Control Engineer with experience in HMI/SCADA systems, currently focusing on cloud computing solutions in AWS for developing scalable infrastructures and optimizing industrial systems.
+
+I have knowledge in frontend development (HTML, CSS, JavaScript), SQL databases, and version control systems. I stand out for my results-oriented approach, ability to solve complex problems, and communication skills to connect with both technical and non-technical audiences. I am currently preparing for the AWS Certified Cloud Practitioner certification, expanding my experience in emerging technologies.
+
+### 🚀 About Me:
+- 🔧 **Current Stack:** HTML, CSS, JavaScript, Python, SQL
+- ☁️ **Learning:** AWS for the Cloud Practitioner certification
+- 🛠️ **Experience:** Solutions Architect and Presales Engineer for GE Vernova and AMDT software solutions
+- 📘 **Interests:** Fullstack development, system integration (OPC UA, MQTT), and process optimization using AWS and AI
+- 📈 **Goal:** Build tools that simplify people's lives and continue growing professionally
+
+### 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcosperez85&show_icons=true&theme=dracula)
 
-### 🧠 Lenguajes más usados:
+### 🧠 Most used languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosperez85&layout=compact&theme=dracula)
 
-### 📫 ¿Cómo contactarme?
+### 📫 How to reach me
 - LinkedIn: www.linkedin.com/in/marcos-damian-perez
 
 <!--
