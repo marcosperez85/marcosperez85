@@ -7,7 +7,7 @@ Tengo conocimientos en desarrollo frontend (HTML, CSS, JavaScript), bases de dat
 ### 🚀 Sobre mí:
 - 🔧 **Stack actual:** HTML, CSS, JavaScript, Python, SQL
 - ☁️ **Aprendiendo:** AWS para la certificación Cloud Practitioner
-- 🛠️ **Experiencia:** Arquitecto de soluciones y presales engineer en software industrial (GE Vernova)
+- 🛠️ **Experiencia:** Arquitecto de soluciones y presales engineer en software industrial (GE Vernova y AMDT)
 - 📘 **Intereses:** Desarrollo fullstack, integración de sistemas (OPC UA, MQTT), y optimización de procesos con AWS e IA
 - 📈 **Objetivo:** Construir herramientas que faciliten la vida a los usuarios y seguir creciendo profesionalmente.
 
