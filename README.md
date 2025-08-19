@@ -1,8 +1,8 @@
 ## 👋 Marcos Pérez
 
-Soy Ingeniero en Automatización y Control Industrial con experiencia en sistremas HMI/SCADA y actualmente estoy enfocándome en soluciones cloud computing en AWS para el desarrollo de infraestructuras escalables y optimizando sistemas industriales.
+Arquitecto de Soluciones con experiencia en preventa de soluciones tecnológicas, integración de aplicaciones y automatización de procesos. Sólida trayectoria en entornos HMI-SCADA, Historians y programación **(Python, JavaScript, SQL, Git y Linux)**.
 
-Tengo conocimientos en desarrollo frontend (HTML, CSS, JavaScript), bases de datos SQL y sistemas de control de versiones. Me destaco por mi orientación a resultados, capacidad para resolver problemas complejos y habilidades de comunicación para conectar con audiencias técnicas y no técnicas. Actualmente, me estoy preparando para obtener la certificación AWS Certified Cloud Practitioner, expandiendo mi experiencia en tecnologías emergentes.
+Actualmente en preparación para la certificación **AWS Solutions Architect Associate**, ampliando competencias de arquitecturas en la nube y tecnologías emergentes como Machine Learning aplicadas al entorno industrial. 
 
 ### 🚀 Sobre mí:
 - 🔧 **Stack actual:** HTML, CSS, JavaScript, Python, SQL
@@ -13,9 +13,11 @@ Tengo conocimientos en desarrollo frontend (HTML, CSS, JavaScript), bases de dat
 
 ### English Version
 
-I am an Industrial Automation and Control Engineer with experience in HMI/SCADA systems, currently focusing on cloud computing solutions in AWS for developing scalable infrastructures and optimizing industrial systems.
+Solutions Architect with strong experience in presales, application integration, and process automation. Skilled in HMI-SCADA, Historians, and programming **(Python, JavaScript, SQL, Git and Linux)**.
 
-I have knowledge in frontend development (HTML, CSS, JavaScript), SQL databases, and version control systems. I stand out for my results-oriented approach, ability to solve complex problems, and communication skills to connect with both technical and non-technical audiences. I am currently preparing for the AWS Certified Cloud Practitioner certification, expanding my experience in emerging technologies.
+Pursuing **AWS Solutions Architect Associate** certification expanding expertise in cloud architectures and industrial applications of Machine Learning.
+
+Consistently bridging technical and commercial needs to drive adoption of innovative solutions.
 
 ### 🚀 About Me:
 - 🔧 **Current Stack:** HTML, CSS, JavaScript, Python, SQL
