@@ -5,10 +5,10 @@ Arquitecto de Soluciones con experiencia en preventa de soluciones tecnológicas
 Actualmente en preparación para la certificación **AWS Solutions Architect Associate**, ampliando competencias de arquitecturas en la nube y tecnologías emergentes como Machine Learning aplicadas al entorno industrial. 
 
 ### 🚀 Sobre mí:
-- 🔧 **Stack actual:** HTML, CSS, JavaScript, Python, SQL
-- ☁️ **Aprendiendo:** AWS para la certificación Cloud Practitioner
-- 🛠️ **Experiencia:** Arquitecto de soluciones y presales engineer en software industrial (GE Vernova y AMDT)
-- 📘 **Intereses:** Desarrollo fullstack, integración de sistemas (OPC UA, MQTT), y optimización de procesos con AWS e IA
+- 🔧 **Stack actual:** HTML, CSS, JavaScript, Python, SQL.
+- ☁️ **Aprendiendo:** AWS para la certificación Solutions Architect Associate SAA-03.
+- 🛠️ **Experiencia:** Arquitecto de soluciones y presales engineer en software industrial (GE Vernova y AMDT).
+- 📘 **Intereses:** Diseño y despliegue de de soluciones clou based mediante GenIA.
 - 📈 **Objetivo:** Construir herramientas que faciliten la vida a los usuarios y seguir creciendo profesionalmente.
 
 ### English Version
@@ -20,11 +20,11 @@ Pursuing **AWS Solutions Architect Associate** certification expanding expertise
 Consistently bridging technical and commercial needs to drive adoption of innovative solutions.
 
 ### 🚀 About Me:
-- 🔧 **Current Stack:** HTML, CSS, JavaScript, Python, SQL
-- ☁️ **Learning:** AWS for the Cloud Practitioner certification
-- 🛠️ **Experience:** Solutions Architect and Presales Engineer for GE Vernova and AMDT software solutions
-- 📘 **Interests:** Fullstack development, system integration (OPC UA, MQTT), and process optimization using AWS and AI
-- 📈 **Goal:** Build tools that simplify people's lives and continue growing professionally
+- 🔧 **Current Stack:** HTML, CSS, JavaScript, Python, SQL.
+- ☁️ **Learning:** AWS for the certified Solutions Architect Associate SAA-03.
+- 🛠️ **Experience:** Solutions Architect and Presales Engineer for GE Vernova and AMDT software solutions.
+- 📘 **Interests:** Designing and deployment of cloud based solutions using GenAI.
+- 📈 **Goal:** Build tools that simplify people's lives and continue growing professionally.
 
 ### 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcosperez85&show_icons=true&theme=dracula)
